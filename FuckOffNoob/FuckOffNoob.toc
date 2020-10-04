@@ -1,0 +1,7 @@
+## Interface: 30300
+## Title: FuckOffNoob
+## Notes: /ignore level 1 noobs inviting you to party and their stupid whispers.
+## Author: Bset
+## Version: 0.9
+
+FuckOffNoob.lua
